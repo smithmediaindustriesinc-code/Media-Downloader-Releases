@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.7.1-preview",
+    "channel": "beta",
+    "date": "2026-08-30",
+    "asset": "MediaDownloaderSetup1.7.1.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.1-preview/MediaDownloaderSetup1.7.1.exe",
+    "sha256": "b9c4ae339540f57defec50ac9f64051313fc22f64ba95ccb4813db98bea8d856",
+    "notes": "1.7.1 preview - Spotify links straight in the Download tab; settings + Spotify sign-in now survive every update (only cleared on uninstall); step-by-step Connect Spotify walkthrough; Import-from-Spoti",
+    "beta_variant_url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.1-preview/MediaDownloaderSetup1.7.1-beta.exe"
+  },
+  {
     "version": "1.7.0",
     "channel": "stable",
     "date": "2026-08-30",
