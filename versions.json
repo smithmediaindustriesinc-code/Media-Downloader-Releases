@@ -1,21 +1,183 @@
 [
-  { "version": "1.6.10", "channel": "stable", "date": "2026-08-29", "asset": "MediaDownloaderSetup1.6.10.exe", "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.10/MediaDownloaderSetup1.6.10.exe", "notes": "Current stable - closes out the 1.6.x line and rolls it all up (drag-drop, VLC, in-app update, in-app request view, size ETAs, retry improvements, and more). 1.7.0 is reserved for the upcoming music-service import feature." },
-  { "version": "1.6.9", "channel": "beta", "date": "2026-08-28", "asset": "MediaDownloaderSetup1.6.9.exe", "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.9/MediaDownloaderSetup1.6.9.exe", "notes": "\"View a request\" is now an in-app page (Back button, no pop-up window)." },
-  { "version": "1.6.8", "channel": "beta", "date": "2026-08-28", "asset": "MediaDownloaderSetup1.6.8.exe", "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.8/MediaDownloaderSetup1.6.8.exe", "notes": "Optional batch \"pre-fetch file sizes\" + size-based ETAs." },
-  { "version": "1.6.7", "channel": "beta", "date": "2026-08-28", "asset": "MediaDownloaderSetup1.6.7.exe", "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.7/MediaDownloaderSetup1.6.7.exe", "notes": "Redownload button on successful items; per-request \"Retry failed\"; resumed retry counter." },
-  { "version": "1.6.6", "channel": "beta", "date": "2026-08-28", "asset": "MediaDownloaderSetup1.6.6.exe", "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.6/MediaDownloaderSetup1.6.6.exe", "notes": "Per-row Delete button on History entries." },
-  { "version": "1.6.5", "channel": "beta", "date": "2026-08-28", "asset": "MediaDownloaderSetup1.6.5.exe", "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.5/MediaDownloaderSetup1.6.5.exe", "notes": "VLC integration back (lighter): \"Open in VLC\" + Version-tab link, no auto-download." },
-  { "version": "1.6.4", "channel": "beta", "date": "2026-08-28", "asset": "MediaDownloaderSetup1.6.4.exe", "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.4/MediaDownloaderSetup1.6.4.exe", "notes": "\"Save to Requests / History\" toggle on the Download tab." },
-  { "version": "1.6.3", "channel": "beta", "date": "2026-08-28", "asset": "MediaDownloaderSetup1.6.3.exe", "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.3/MediaDownloaderSetup1.6.3.exe", "notes": "Dynamic Batch Queue shows a live URL count." },
-  { "version": "1.6.2", "channel": "beta", "date": "2026-08-28", "asset": "MediaDownloaderSetup1.6.2.exe", "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.2/MediaDownloaderSetup1.6.2.exe", "notes": "Dev-unlock credentials rotated + hashed; mini top-log mirrors the real log." },
-  { "version": "1.6.1", "channel": "beta", "date": "2026-08-28", "asset": "MediaDownloaderSetup1.6.1.exe", "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.1/MediaDownloaderSetup1.6.1.exe", "notes": "Drag a video thumbnail from a browser straight onto the window." },
-  { "version": "1.5.4-preview", "channel": "beta", "date": "2026-08-27", "asset": "MediaDownloaderSetup1.5.4-preview.exe", "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.5.4-preview/MediaDownloaderSetup1.5.4-preview.exe", "notes": "Small fixes round + VLC removal (superseded by the 1.6.x line)." },
-  { "version": "1.5.3", "channel": "stable", "date": "2026-08-27", "asset": "MediaDownloaderSetup1.5.3.exe", "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.5.3/MediaDownloaderSetup1.5.3.exe", "notes": "Latest stable release." },
-  { "version": "1.5", "channel": "stable", "date": "2026-08-25", "asset": "MediaDownloaderSetup1.5.exe", "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.5/MediaDownloaderSetup1.5.exe", "notes": "" },
-  { "version": "1.4.1", "channel": "stable", "date": "2026-08-25", "asset": "MediaDownloaderSetup1.4.1.exe", "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.4.1/MediaDownloaderSetup1.4.1.exe", "notes": "" },
-  { "version": "1.4", "channel": "stable", "date": "2026-08-24", "asset": "MediaDownloaderSetup1.4.exe", "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.4/MediaDownloaderSetup1.4.exe", "notes": "" },
-  { "version": "1.3", "channel": "stable", "date": "2026-08-24", "asset": "MediaDownloaderSetup1.3.exe", "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.3/MediaDownloaderSetup1.3.exe", "notes": "" },
-  { "version": "1.2", "channel": "stable", "date": "2026-08-24", "asset": "MediaDownloaderSetup1.2.exe", "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.2/MediaDownloaderSetup1.2.exe", "notes": "" },
-  { "version": "1.1", "channel": "stable", "date": "2026-08-24", "asset": "MediaDownloaderSetup1.1.exe", "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.1/MediaDownloaderSetup1.1.exe", "notes": "" },
-  { "version": "1.0", "channel": "stable", "date": "2026-08-24", "asset": "MediaDownloaderSetup1.0.exe", "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.0/MediaDownloaderSetup1.0.exe", "notes": "First release." }
+  {
+    "version": "1.7.0-preview",
+    "channel": "beta",
+    "date": "2026-08-30",
+    "asset": "MediaDownloaderSetup1.7.0.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.0-preview/MediaDownloaderSetup1.7.0.exe",
+    "sha256": "6ab63753d0d931490aeb18f0c0af64c0bb9e4b3bef0204ee44cd33063eb1b860",
+    "notes": "1.7.0 preview - Spotify import, unified bootstrapper installer, updater rework. Not yet the stable release. MediaDownloaderSetup1.7.0-beta.exe = the side-by-side 'Media Downloader Beta' variant.",
+    "beta_variant_url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.0-preview/MediaDownloaderSetup1.7.0-beta.exe"
+  },
+  {
+    "version": "1.6.10",
+    "channel": "stable",
+    "date": "2026-08-29",
+    "asset": "MediaDownloaderSetup1.6.10.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.10/MediaDownloaderSetup1.6.10.exe",
+    "sha256": "bd6db1dea4c4b56b4605e6bb750972aa34e65d8d28b875cd7296bb4981f47506",
+    "notes": "Media Downloader 1.6.10 - closes out the 1.6.x line, rolled up into one stable release (drag-drop thumbnails, VLC, in-app self-update with a dedicated Download/Update button + beta separate-copy optio"
+  },
+  {
+    "version": "1.6.9",
+    "channel": "stable",
+    "date": "2026-08-29",
+    "asset": "MediaDownloaderSetup1.6.9.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.9/MediaDownloaderSetup1.6.9.exe",
+    "sha256": "70f70a97c10979e884e408ff9deb8c1361da8f0c3aaa0d012098e59b89edfda3",
+    "notes": "Media Downloader 1.6.9. Preview - \"view a request\" is now an in-app page (Back button, no pop-up window)  Installer: MediaDownloaderSetup1.6.9.exe"
+  },
+  {
+    "version": "1.6.8",
+    "channel": "stable",
+    "date": "2026-08-29",
+    "asset": "MediaDownloaderSetup1.6.8.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.8/MediaDownloaderSetup1.6.8.exe",
+    "sha256": "ab27661156a1960166f6f30b47a995581677233f3f37822f56fc0d9440222ef5",
+    "notes": "Media Downloader 1.6.8. Preview - optional batch \"pre-fetch file sizes\" + size-based ETAs  Installer: MediaDownloaderSetup1.6.8.exe"
+  },
+  {
+    "version": "1.6.7",
+    "channel": "stable",
+    "date": "2026-08-29",
+    "asset": "MediaDownloaderSetup1.6.7.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.7/MediaDownloaderSetup1.6.7.exe",
+    "sha256": "dc25134632731c79e42c53ac0667487bac5bad34edcc28f613da6e04137138a1",
+    "notes": "Media Downloader 1.6.7. Preview - Redownload button on successful items; per-request \"Retry failed\"; resumed retry counter  Installer: MediaDownloaderSetup1.6.7.exe"
+  },
+  {
+    "version": "1.6.6",
+    "channel": "stable",
+    "date": "2026-08-29",
+    "asset": "MediaDownloaderSetup1.6.6.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.6/MediaDownloaderSetup1.6.6.exe",
+    "sha256": "fc607f88a07f1cf6d606b2523f7c12e6ef26a4fb142d08ec689eba0b3adde80c",
+    "notes": "Media Downloader 1.6.6. Preview - per-row Delete button on History entries  Installer: MediaDownloaderSetup1.6.6.exe"
+  },
+  {
+    "version": "1.6.5",
+    "channel": "stable",
+    "date": "2026-08-29",
+    "asset": "MediaDownloaderSetup1.6.5.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.5/MediaDownloaderSetup1.6.5.exe",
+    "sha256": "84bd562be2d9d2f35b5fa76fe9602452f544f3253dc4ad79c9216f47ad157ca3",
+    "notes": "Media Downloader 1.6.5. Preview - VLC integration back (lighter): \"Open in VLC\" + Version-tab link, no auto-download  Installer: MediaDownloaderSetup1.6.5.exe"
+  },
+  {
+    "version": "1.6.4",
+    "channel": "stable",
+    "date": "2026-08-29",
+    "asset": "MediaDownloaderSetup1.6.4.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.4/MediaDownloaderSetup1.6.4.exe",
+    "sha256": "bbfca13e560b02f23aae05fb28beb5e44d1ffb627c1ab20b510f4fdf1474a3a0",
+    "notes": "Media Downloader 1.6.4. Preview - \"Save to Requests / History\" toggle on the Download tab  Installer: MediaDownloaderSetup1.6.4.exe"
+  },
+  {
+    "version": "1.6.3",
+    "channel": "stable",
+    "date": "2026-08-29",
+    "asset": "MediaDownloaderSetup1.6.3.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.3/MediaDownloaderSetup1.6.3.exe",
+    "sha256": "c825dd505d7c4e39a73e45f795b9c8025e123c6f4580648666e96642592f3587",
+    "notes": "Media Downloader 1.6.3. Preview - dynamic Batch Queue shows a live URL count  Installer: MediaDownloaderSetup1.6.3.exe"
+  },
+  {
+    "version": "1.6.2",
+    "channel": "stable",
+    "date": "2026-08-29",
+    "asset": "MediaDownloaderSetup1.6.2.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.2/MediaDownloaderSetup1.6.2.exe",
+    "sha256": "e6f04e163ba6aaac00280aea90f0fe7ffb621b104800a4fff0a71f69777e8204",
+    "notes": "Media Downloader 1.6.2. Preview - dev-unlock creds rotated + hashed; mini top-log mirrors the real log  Installer: MediaDownloaderSetup1.6.2.exe"
+  },
+  {
+    "version": "1.6.1",
+    "channel": "stable",
+    "date": "2026-08-29",
+    "asset": "MediaDownloaderSetup1.6.1.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.1/MediaDownloaderSetup1.6.1.exe",
+    "sha256": "a2a1829533f5f11a8dce8c16954a80c6ebbbbffcbff2a725db880214448616d9",
+    "notes": "Media Downloader 1.6.1. Preview - drag a video thumbnail from a browser onto the window  Installer: MediaDownloaderSetup1.6.1.exe"
+  },
+  {
+    "version": "1.5.4-preview",
+    "channel": "stable",
+    "date": "2026-08-29",
+    "asset": "MediaDownloaderSetup1.5.4-preview.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.5.4-preview/MediaDownloaderSetup1.5.4-preview.exe",
+    "sha256": "c20bc183b5c114b02e3bb1dcd3f4771919d42b4a34bb24aed5f2b5c820c25789",
+    "notes": "Media Downloader 1.5.4-preview. Preview - small fixes round + VLC removal (superseded by 1.6.x)  Installer: MediaDownloaderSetup1.5.4-preview.exe"
+  },
+  {
+    "version": "1.5.3",
+    "channel": "stable",
+    "date": "2026-08-29",
+    "asset": "MediaDownloaderSetup1.5.3.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.5.3/MediaDownloaderSetup1.5.3.exe",
+    "sha256": "f2e518c9835e876f728f8b825d5c644465f97422ae74921ad3429f2b772ad60a",
+    "notes": "Media Downloader 1.5.3. Latest stable  Installer: MediaDownloaderSetup1.5.3.exe"
+  },
+  {
+    "version": "1.5",
+    "channel": "stable",
+    "date": "2026-08-29",
+    "asset": "MediaDownloaderSetup1.5.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.5/MediaDownloaderSetup1.5.exe",
+    "sha256": "eba3b929512fd0e1e740bdea7f74a4e3f1f12173229d82f22e46e2fc305e1b57",
+    "notes": "Media Downloader 1.5. Archived build.  Installer: MediaDownloaderSetup1.5.exe"
+  },
+  {
+    "version": "1.4.1",
+    "channel": "stable",
+    "date": "2026-08-29",
+    "asset": "MediaDownloaderSetup1.4.1.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.4.1/MediaDownloaderSetup1.4.1.exe",
+    "sha256": "51fb90b1f570db79d89d686266eb3b73cc10fd4593a97af2c1b9689bdf72b100",
+    "notes": "Media Downloader 1.4.1. Archived build.  Installer: MediaDownloaderSetup1.4.1.exe"
+  },
+  {
+    "version": "1.4",
+    "channel": "stable",
+    "date": "2026-08-29",
+    "asset": "MediaDownloaderSetup.1.4.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.4/MediaDownloaderSetup.1.4.exe",
+    "sha256": "e0063cb4d6795a4e749186a18837e59cb2f0b8a0935766ba2d7f0c61ee6a4319",
+    "notes": "Media Downloader 1.4. Archived build.  Installer: MediaDownloaderSetup1.4.exe"
+  },
+  {
+    "version": "1.3",
+    "channel": "stable",
+    "date": "2026-08-29",
+    "asset": "MediaDownloaderSetup1.3.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.3/MediaDownloaderSetup1.3.exe",
+    "sha256": "7bd850923440d6875568dfacced51f25b79ce9882be00cd9e222fa89879cf772",
+    "notes": "Media Downloader 1.3. Archived build.  Installer: MediaDownloaderSetup1.3.exe"
+  },
+  {
+    "version": "1.2",
+    "channel": "stable",
+    "date": "2026-08-29",
+    "asset": "MediaDownloaderSetup1.2.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.2/MediaDownloaderSetup1.2.exe",
+    "sha256": "d8cfc96ba0fcb6e2f9aedfacdccb85320299374f2948d1f3169631001fa74d41",
+    "notes": "Media Downloader 1.2. Archived build.  Installer: MediaDownloaderSetup1.2.exe"
+  },
+  {
+    "version": "1.1",
+    "channel": "stable",
+    "date": "2026-08-29",
+    "asset": "MediaDownloaderSetup1.1.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.1/MediaDownloaderSetup1.1.exe",
+    "sha256": "c649a68f2d8ebcda260d4b6fae0cc25c90038e87afced7dc8f4d3a75d287c573",
+    "notes": "Media Downloader 1.1. Archived build. Installer: MediaDownloaderSetup1.1.exe"
+  },
+  {
+    "version": "1.0",
+    "channel": "stable",
+    "date": "2026-08-29",
+    "asset": "MediaDownloaderSetup1.0.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.0/MediaDownloaderSetup1.0.exe",
+    "sha256": "245af0c802a7c57febdb14845b47afa7300ffea4e2befccdb91d88042f66799c",
+    "notes": "Media Downloader 1.0. Archived build. Installer: MediaDownloaderSetup1.0.exe"
+  }
 ]
