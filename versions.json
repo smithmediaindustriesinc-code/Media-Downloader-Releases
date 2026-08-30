@@ -1,5 +1,15 @@
 [
   {
+    "version": "1.7.2-preview",
+    "channel": "beta",
+    "date": "2026-08-30",
+    "asset": "MediaDownloaderSetup1.7.2.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.2-preview/MediaDownloaderSetup1.7.2.exe",
+    "sha256": "498681707744a18a319f666650c053bd494375181ad15bac077295f305e344b3",
+    "notes": "1.7.2 preview - your Spotify playlists picker, Import tab -> dialog, Spotify auto audio-only, configurable media player (VLC buttons gone), Version-tab Refresh, + GitHub issues #2 #14 #16 #17 #18 #19 ",
+    "beta_variant_url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.2-preview/MediaDownloaderSetup1.7.2-beta.exe"
+  },
+  {
     "version": "1.7.1-preview",
     "channel": "beta",
     "date": "2026-08-30",
