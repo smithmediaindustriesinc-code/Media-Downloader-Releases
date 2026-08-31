@@ -1,13 +1,13 @@
 [
   {
-    "version": "1.7.3-preview",
+    "version": "1.7.3.1-preview",
     "channel": "beta",
     "date": "2026-08-31",
-    "asset": "MediaDownloaderSetup1.7.3.exe",
-    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.3-preview/MediaDownloaderSetup1.7.3.exe",
-    "sha256": "06daf6e337ba2b56b52ec525509b0f28964fa36213be710514666470bc591eb1",
-    "notes": "1.7.3 \u00e2\u20ac\u201d PRE-RELEASE (beta). Please test before it's promoted to stable.**",
-    "beta_variant_url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.3-preview/MediaDownloaderSetup1.7.3-beta.exe"
+    "asset": "MediaDownloaderSetup1.7.3.1.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.3.1-preview/MediaDownloaderSetup1.7.3.1.exe",
+    "sha256": "5012f87be39054d31632c58bf5f19b0ade36ee2bd5a5b9aa56a8b783d29ed7ea",
+    "notes": "1.7.3.1 - PRE-RELEASE (beta). Fixes + a round of optimizations on top of 1.7.3. Please test before it's promoted to stable.",
+    "beta_variant_url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.3.1-preview/MediaDownloaderSetup1.7.3.1-beta.exe"
   },
   {
     "version": "1.7.2",
@@ -16,7 +16,7 @@
     "asset": "MediaDownloaderSetup1.7.2.exe",
     "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.2/MediaDownloaderSetup1.7.2.exe",
     "sha256": "498681707744a18a319f666650c053bd494375181ad15bac077295f305e344b3",
-    "notes": "1.7.2 \u00e2\u20ac\u201d now the latest stable release.** (Tested and confirmed.)",
+    "notes": "1.7.2 - now the latest stable release. (Tested and confirmed.)",
     "beta_variant_url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.2/MediaDownloaderSetup1.7.2-beta.exe"
   },
   {
@@ -26,7 +26,7 @@
     "asset": "MediaDownloaderSetup1.7.1.exe",
     "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.1/MediaDownloaderSetup1.7.1.exe",
     "sha256": "b9c4ae339540f57defec50ac9f64051313fc22f64ba95ccb4813db98bea8d856",
-    "notes": "1.7.1 \u00e2\u20ac\u201d working build (superseded by 1.7.2).**",
+    "notes": "1.7.1 - working build (superseded by 1.7.2).",
     "beta_variant_url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.1/MediaDownloaderSetup1.7.1-beta.exe"
   },
   {
