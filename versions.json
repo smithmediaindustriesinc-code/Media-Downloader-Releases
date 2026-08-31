@@ -1,23 +1,33 @@
 [
   {
-    "version": "1.7.2-preview",
+    "version": "1.7.3-preview",
     "channel": "beta",
-    "date": "2026-08-30",
-    "asset": "MediaDownloaderSetup1.7.2.exe",
-    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.2-preview/MediaDownloaderSetup1.7.2.exe",
-    "sha256": "498681707744a18a319f666650c053bd494375181ad15bac077295f305e344b3",
-    "notes": "1.7.2 preview - your Spotify playlists picker, Import tab -> dialog, Spotify auto audio-only, configurable media player (VLC buttons gone), Version-tab Refresh, + GitHub issues #2 #14 #16 #17 #18 #19 ",
-    "beta_variant_url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.2-preview/MediaDownloaderSetup1.7.2-beta.exe"
+    "date": "2026-08-31",
+    "asset": "MediaDownloaderSetup1.7.3.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.3-preview/MediaDownloaderSetup1.7.3.exe",
+    "sha256": "06daf6e337ba2b56b52ec525509b0f28964fa36213be710514666470bc591eb1",
+    "notes": "1.7.3 \u00e2\u20ac\u201d PRE-RELEASE (beta). Please test before it's promoted to stable.**",
+    "beta_variant_url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.3-preview/MediaDownloaderSetup1.7.3-beta.exe"
   },
   {
-    "version": "1.7.1-preview",
-    "channel": "beta",
-    "date": "2026-08-30",
+    "version": "1.7.2",
+    "channel": "stable",
+    "date": "2026-08-31",
+    "asset": "MediaDownloaderSetup1.7.2.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.2/MediaDownloaderSetup1.7.2.exe",
+    "sha256": "498681707744a18a319f666650c053bd494375181ad15bac077295f305e344b3",
+    "notes": "1.7.2 \u00e2\u20ac\u201d now the latest stable release.** (Tested and confirmed.)",
+    "beta_variant_url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.2/MediaDownloaderSetup1.7.2-beta.exe"
+  },
+  {
+    "version": "1.7.1",
+    "channel": "stable",
+    "date": "2026-08-31",
     "asset": "MediaDownloaderSetup1.7.1.exe",
-    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.1-preview/MediaDownloaderSetup1.7.1.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.1/MediaDownloaderSetup1.7.1.exe",
     "sha256": "b9c4ae339540f57defec50ac9f64051313fc22f64ba95ccb4813db98bea8d856",
-    "notes": "1.7.1 preview - Spotify links straight in the Download tab; settings + Spotify sign-in now survive every update (only cleared on uninstall); step-by-step Connect Spotify walkthrough; Import-from-Spoti",
-    "beta_variant_url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.1-preview/MediaDownloaderSetup1.7.1-beta.exe"
+    "notes": "1.7.1 \u00e2\u20ac\u201d working build (superseded by 1.7.2).**",
+    "beta_variant_url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.1/MediaDownloaderSetup1.7.1-beta.exe"
   },
   {
     "version": "1.7.0",
@@ -40,7 +50,7 @@
   },
   {
     "version": "1.6.9",
-    "channel": "beta",
+    "channel": "stable",
     "date": "2026-08-29",
     "asset": "MediaDownloaderSetup1.6.9.exe",
     "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.9/MediaDownloaderSetup1.6.9.exe",
@@ -49,7 +59,7 @@
   },
   {
     "version": "1.6.8",
-    "channel": "beta",
+    "channel": "stable",
     "date": "2026-08-29",
     "asset": "MediaDownloaderSetup1.6.8.exe",
     "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.8/MediaDownloaderSetup1.6.8.exe",
@@ -58,7 +68,7 @@
   },
   {
     "version": "1.6.7",
-    "channel": "beta",
+    "channel": "stable",
     "date": "2026-08-29",
     "asset": "MediaDownloaderSetup1.6.7.exe",
     "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.7/MediaDownloaderSetup1.6.7.exe",
@@ -67,7 +77,7 @@
   },
   {
     "version": "1.6.6",
-    "channel": "beta",
+    "channel": "stable",
     "date": "2026-08-29",
     "asset": "MediaDownloaderSetup1.6.6.exe",
     "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.6/MediaDownloaderSetup1.6.6.exe",
@@ -76,7 +86,7 @@
   },
   {
     "version": "1.6.5",
-    "channel": "beta",
+    "channel": "stable",
     "date": "2026-08-29",
     "asset": "MediaDownloaderSetup1.6.5.exe",
     "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.5/MediaDownloaderSetup1.6.5.exe",
@@ -85,7 +95,7 @@
   },
   {
     "version": "1.6.4",
-    "channel": "beta",
+    "channel": "stable",
     "date": "2026-08-29",
     "asset": "MediaDownloaderSetup1.6.4.exe",
     "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.4/MediaDownloaderSetup1.6.4.exe",
@@ -94,7 +104,7 @@
   },
   {
     "version": "1.6.3",
-    "channel": "beta",
+    "channel": "stable",
     "date": "2026-08-29",
     "asset": "MediaDownloaderSetup1.6.3.exe",
     "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.3/MediaDownloaderSetup1.6.3.exe",
@@ -103,7 +113,7 @@
   },
   {
     "version": "1.6.2",
-    "channel": "beta",
+    "channel": "stable",
     "date": "2026-08-29",
     "asset": "MediaDownloaderSetup1.6.2.exe",
     "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.2/MediaDownloaderSetup1.6.2.exe",
@@ -112,7 +122,7 @@
   },
   {
     "version": "1.6.1",
-    "channel": "beta",
+    "channel": "stable",
     "date": "2026-08-29",
     "asset": "MediaDownloaderSetup1.6.1.exe",
     "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.6.1/MediaDownloaderSetup1.6.1.exe",
