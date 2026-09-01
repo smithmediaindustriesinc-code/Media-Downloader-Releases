@@ -1,13 +1,13 @@
 [
   {
-    "version": "1.7.3.1-preview",
+    "version": "1.7.4-preview",
     "channel": "beta",
-    "date": "2026-08-31",
-    "asset": "MediaDownloaderSetup1.7.3.1.exe",
-    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.3.1-preview/MediaDownloaderSetup1.7.3.1.exe",
-    "sha256": "5012f87be39054d31632c58bf5f19b0ade36ee2bd5a5b9aa56a8b783d29ed7ea",
-    "notes": "1.7.3.1 - PRE-RELEASE (beta). Fixes + a round of optimizations on top of 1.7.3. Please test before it's promoted to stable.",
-    "beta_variant_url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.3.1-preview/MediaDownloaderSetup1.7.3.1-beta.exe"
+    "date": "2026-09-01",
+    "asset": "MediaDownloaderSetup1.7.4.exe",
+    "url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.4-preview/MediaDownloaderSetup1.7.4.exe",
+    "sha256": "1f924b69f1cba2ff4bf385c586c59eb06d408e6d1fe102a442110dfb92e19b3f",
+    "notes": "1.7.4 - PRE-RELEASE (beta). A big feature release: all 16 ideas from the automated brainstorm emails. Please test before it's promoted to stable.",
+    "beta_variant_url": "https://github.com/smithmediaindustriesinc-code/Media-Downloader-Releases/releases/download/v1.7.4-preview/MediaDownloaderSetup1.7.4-beta.exe"
   },
   {
     "version": "1.7.2",
